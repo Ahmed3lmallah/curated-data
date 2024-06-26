@@ -1,0 +1,13 @@
+coordinates:
+  name: multi-tenant
+  namespace: ashishkmrsingh
+  provider: github
+  type: git
+revisions:
+  e781374bea9f3d44ff1bd2fe83e0d734cff94869:
+    described:
+      facets:
+        dev:
+          - '*.java'
+        tests:
+          - '*Test'
