@@ -12,3 +12,12 @@ revisions:
   0.0.67:
     licensed:
       declared: NONE
+  0.0.68:
+    described:
+      sourceLocation:
+        name: mustache.msbuild
+        namespace: oyvindh
+        provider: github
+        revision: 05ed534
+        type: git
+        url: 'https://github.com/oyvindh/mustache.msbuild/commit/05ed534'
