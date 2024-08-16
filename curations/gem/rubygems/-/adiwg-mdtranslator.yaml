@@ -1,0 +1,10 @@
+coordinates:
+  name: adiwg-mdtranslator
+  provider: rubygems
+  type: gem
+revisions:
+  1.4.0.beta3:
+    described:
+      releaseDate: '2016-06-17'
+    licensed:
+      declared: Unlicense
