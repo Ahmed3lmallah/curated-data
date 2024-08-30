@@ -1,0 +1,18 @@
+coordinates:
+  name: std-uritemplate
+  namespace: '@std-uritemplate'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.5:
+    files:
+      - license: Apache-2.0+
+        path: package/dist/index.cjs
+      - license: Apache-2.0+
+        path: package/dist/index.d.cts
+      - license: Apache-2.0+
+        path: package/dist/index.d.mts
+      - license: Apache-2.0+
+        path: package/dist/index.d.ts
+      - license: Apache-2.0+
+        path: package/dist/index.mjs
