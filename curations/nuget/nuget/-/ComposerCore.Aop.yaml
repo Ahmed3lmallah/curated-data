@@ -1,0 +1,16 @@
+coordinates:
+  name: ComposerCore.Aop
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.10:
+    described:
+      sourceLocation:
+        name: composer-core
+        namespace: clay-one
+        provider: github
+        revision: 78eda3a4ad00c81c1107ea884e4aba6c7d360bde
+        type: git
+        url: 'https://github.com/clay-one/composer-core/commit/78eda3a4ad00c81c1107ea884e4aba6c7d360bde'
+    licensed:
+      declared: MIT
